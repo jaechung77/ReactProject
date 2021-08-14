@@ -10,6 +10,7 @@ import Navbar from './Navbar'
 
 // const API = "http://localhost:3001/vtopia"
 const API = "https://jaechung77.github.io/ReactProject/vtopia"
+const PUBLIC_URL = "https://jaechung77.github.io/ReactProject"
 
 class App extends React.Component {
   constructor(){
@@ -65,7 +66,7 @@ class App extends React.Component {
   render(){
     return (
         <div className="App">
-          <Router>
+          <Router basename={process.env.PUBLIC_URL}>
                 <div>            
                     <Navbar />
                     <Switch>
