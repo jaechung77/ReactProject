@@ -8,16 +8,13 @@ class Movie extends React.Component {
     render(){
 
          let selected = this.props.vod.selected
-        
-        // if (this.props.frommylist){ 
-        //     listed = false 
-        // }    
+           
         const imgsrc = IMGSERVER + this.props.vod.image
         return (
-            <Card key={this.props.vod.id} className='fluid' onClick={()=>this.props.handleVodClick(this.props.vod.id)}>
+            <Card key={this.props.vod.id} className='fluid' style={{backgroundColor: 'black' }}  onClick={()=>this.props.handleVodClick(this.props.vod.id)}>
                 <Image size='large' src={imgsrc} wrapped ui={false}  />          
                 <Card.Content>
-                <Card.Description size='tiny' textAlign='center'  >{this.props.vod.genre}</Card.Description>
+                <Card.Description size='tiny' textAlign='center' style={{color: 'white'}}>{this.props.vod.genre}</Card.Description>
                 <Label attached="bottom right" color="black">
                     <Icon name="dollar" /> {this.props.vod.price}
                 </Label>

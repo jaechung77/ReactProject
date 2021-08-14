@@ -25,7 +25,7 @@
       "name": "Once Again",
       "image": "onceagain.jpg",
       "price": 100,
-      "selected": false
+      "selected": true
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "name": "Marriage Contract",
       "image": "marriagecontract.jpg",
       "price": 80,
-      "selected": false
+      "selected": true
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "name": "Good Manager",
       "image": "goodmanager.jpg",
       "price": 150,
-      "selected": false
+      "selected": true
     },
     {
       "id": 6,
@@ -69,7 +69,7 @@
       "name": "Marco Polo",
       "image": "marcopolo.jpg",
       "price": 80,
-      "selected": false
+      "selected": true
     },
     {
       "id": 9,
@@ -78,7 +78,7 @@
       "name": "The Last Kingdom",
       "image": "thelastkingdom.jpg",
       "price": 100,
-      "selected": false
+      "selected": true
     },
     {
       "id": 10,
@@ -87,7 +87,7 @@
       "name": "Shooter",
       "image": "shooter.jpg",
       "price": 90,
-      "selected": false
+      "selected": true
     },
     {
       "id": 11,
@@ -96,7 +96,7 @@
       "name": "Vikings",
       "image": "vikings.jpg",
       "price": 80,
-      "selected": false
+      "selected": true
     },
     {
       "id": 12,
@@ -123,7 +123,7 @@
       "name": "Word of Honor",
       "image": "wordofhonor.jpg",
       "price": 210,
-      "selected": false
+      "selected": true
     },
     {
       "id": 15,
@@ -132,7 +132,7 @@
       "name": "My Golden Life",
       "image": "mygoldenlife.jpg",
       "price": 100,
-      "selected": false
+      "selected": true
     },
     {
       "id": 16,
@@ -141,7 +141,7 @@
       "name": "Sense 8",
       "image": "sense8.jpg",
       "price": 80,
-      "selected": false
+      "selected": true
     },
     {
       "id": 17,
@@ -150,7 +150,7 @@
       "name": "Dear My Friends",
       "image": "dearmyfriends.jpg",
       "price": 80,
-      "selected": false
+      "selected": true
     },
     {
       "id": 18,
@@ -177,7 +177,7 @@
       "name": "Sex Life",
       "image": "sexlife.jpg",
       "price": 300,
-      "selected": false
+      "selected": true
     },
     {
       "id": 21,
@@ -186,7 +186,7 @@
       "name": "Sweet Tooth",
       "image": "sweettooth.jpg",
       "price": 100,
-      "selected": false
+      "selected": true
     },
     {
       "id": 22,
@@ -195,7 +195,7 @@
       "name": "Shadow Bone",
       "image": "shadowbone.jpg",
       "price": 110,
-      "selected": false
+      "selected": true
     },
     {
       "id": 23,
@@ -222,7 +222,7 @@
       "name": "The Crowned Clown",
       "image": "clown.jpg",
       "price": 150,
-      "selected": false
+      "selected": true
     },
     {
       "id": 26,
@@ -231,7 +231,7 @@
       "name": "Lawless Lawyer",
       "image": "lawlesslawyer.jpg",
       "price": 80,
-      "selected": false
+      "selected": true
     },
     {
       "id": 27,
@@ -240,7 +240,7 @@
       "name": "Designated Survivor",
       "image": "designatedsurvivor.jpg",
       "price": 85,
-      "selected": false
+      "selected": true
     },
     {
       "id": 28,
@@ -249,7 +249,7 @@
       "name": "Encounter",
       "image": "encounter.jpg",
       "price": 80,
-      "selected": false
+      "selected": true
     },
     {
       "id": 29,
@@ -258,7 +258,7 @@
       "name": "Hospital Playlist",
       "image": "hospitalplaylist.jpg",
       "price": 100,
-      "selected": false
+      "selected": true
     },
     {
       "id": 30,
@@ -339,7 +339,7 @@
       "name": "Znation",
       "image": "znation.jpg",
       "price": 180,
-      "selected": false
+      "selected": true
     },
     {
       "id": 39,
@@ -402,7 +402,7 @@
       "name": "Travelers",
       "image": "travelers.jpg",
       "price": 150,
-      "selected": false
+      "selected": true
     },
     {
       "id": 46,

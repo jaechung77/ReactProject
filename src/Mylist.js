@@ -15,13 +15,13 @@ class Mylist extends React.Component {
         return(
             <div>
                 <Card.Group itemsPerRow={6} stackable={true} doubling={true}> 
-                    {this.props.vods.filter(vod => vod.selected === true).map(vod => <Movie key={vod.id} vod={vod} handleVodClick={this.props.handleVodClick} />)}                   */}
+                    {this.props.vods.filter(vod => vod.selected === true).map(vod => <Movie key={vod.id} vod={vod} handleVodClick={this.props.handleVodClick} />)}                  
                 </Card.Group>
             
 
                 <div>
                     <div></div>
-                    { <h1>Total amount is ${amount}</h1> }
+                     <h1 style={{textAlign: 'center'}}>Total amount is ${new Intl.NumberFormat().format(amount)}</h1> 
                 </div>
             </div>
         ) 
