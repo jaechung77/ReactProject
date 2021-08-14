@@ -25,7 +25,7 @@
       "name": "Once Again",
       "image": "onceagain.jpg",
       "price": 100,
-      "selected": true
+      "selected": false
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "name": "Marriage Contract",
       "image": "marriagecontract.jpg",
       "price": 80,
-      "selected": true
+      "selected": false
     },
     {
       "id": 5,
@@ -240,7 +240,7 @@
       "name": "Designated Survivor",
       "image": "designatedsurvivor.jpg",
       "price": 85,
-      "selected": true
+      "selected": false
     },
     {
       "id": 28,
