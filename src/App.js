@@ -8,7 +8,7 @@ import Mylist from './Mylist'
 import Navbar from './Navbar'
 
 
-// const API = "http://localhost:3001/vtopia"
+//const API = "http://localhost:3001/vtopia"
 const API = "https://jaechung77.github.io/ReactProject/vtopia"
 const PUBLIC_URL = "https://jaechung77.github.io/ReactProject"
 
